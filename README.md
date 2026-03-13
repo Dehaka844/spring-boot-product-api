@@ -76,4 +76,4 @@ Mientras la aplicación está en ejecución, puedes acceder a una consola web pa
 *   **Password:** (dejar en blanco )
 
 ---
-*Desarrollado por [Tu Nombre].*
+*Desarrollado por David Arenas Cabeza.*
